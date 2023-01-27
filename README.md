@@ -41,6 +41,8 @@ Projekat/
                 webapp/
                         bootstrap/
                         images/
+                        database/
+                            korisnici.db
                         css/
                             home.css   # css styles
                         home.jsp
