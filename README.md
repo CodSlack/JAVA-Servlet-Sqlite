@@ -1,9 +1,9 @@
 # Java-Servlet-Sqlite
 
 ## About
-This project is a simple tickets-selling website for f1 races powered by Java JSP Servlet.It involves
+This project is a simple ticket-selling website for f1 races powered by Java JSP Servlet. It involves
 many edge cases and a solid system architecture. This project is simply a demo demonstrating basic features which is
-only the tip of an iceberg. This project might (and certainly does) have bugs, vulnerabilities or some other types of
+only the tip of the iceberg. This project might (and certainly does) have bugs, vulnerabilities, or some other types of
 issues.
 
 ## Features include
@@ -16,13 +16,16 @@ issues.
 
 ## Prerequisites
 ```
-What things you need to install
-You need Tomcat server 8.5 or above installed.
-Compatible IDE, Eclipse IDEA recommended for this project.
+What things do you need to install
+You need a Tomcat server 8.5 or above installed.
+A compatible IDE, Eclipse IDEA recommended for this project.
 ```
+### MVC Architecture
+The architecture used for this project looks like this:
+![image](https://github.com/Iggor27/Java-Servlet-Sqlite/assets/24782270/4cdd9131-7a03-4ea6-9269-533989f8e304)
 
 ## Workspace
-Your workspace should look like:
+Your workspace should look like this:
 ```
 Projekat/
     src/
